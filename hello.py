@@ -1,1 +1,1 @@
-print "hello from app"
+nohup echo 'hello' >> output.txt"
